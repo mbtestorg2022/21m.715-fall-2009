@@ -25,10 +25,39 @@ Grading
 
 Grades are broken down as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Class work | 70% (based on average of grades of all in class projects) |
-| Final project | 30% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class work
+{{< tdclose >}}
+{{< tdopen >}}
+70% (based on average of grades of all in class projects)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final project
+{{< tdclose >}}
+{{< tdopen >}}
+30%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Grades are based on design, problem solving and execution. I am interested in creativity as well as elegance of execution and design. In general I am more interested in a committed process that is full of discovery and challenge than in a perfect product; although the quality of the end product will also be considered.
 
